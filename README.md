@@ -11,3 +11,9 @@ This project involves creating a dataset for OLA rides in Bengaluru over a month
 8.Found average customer rating per vehicle types <br>
 9.Average customer rating per vehicle type <br>
 10.Total Booking value of ride that completed sucessfully.
+# POWER BI VISUALIZATION
+1.Line chart for analysing number of rides for each day <br>
+2.Tree map for analysing total booking value and donut charts for total distance travelled and average distance travelled for each vehicle type <br>
+3.Pie charts for Booking status,rides Cancelled by drivers and rides cancelled by customers <br>
+4.Pie chart for finding the total revenue of each vehicle type and tables for analysing average ratings for each vehicle by customers and drivers <br>
+5.Used slicers for vehicle type,date and cards for representing total booking value,total bookings,ratings and distance travelled. <br>
